@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/stoppable-event-interface": "dev-main"
+        "potter/stoppable-event-interface": "dev-main",
+        "potter/stoppable-event-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
