@@ -7,6 +7,11 @@
         "potter/stoppable-event-interface": "dev-main",
         "potter/stoppable-event-trait": "dev-main"
     },
+    "suggest": {
+        "potter/event": "dev-main",
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
