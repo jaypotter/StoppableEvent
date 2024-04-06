@@ -4,8 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/stoppable-event-interface": "dev-main",
-        "potter/stoppable-event-trait": "dev-main"
+        "potter/stoppable-event-interface": "v0.0.1-alpha@alpha",
+        "potter/stoppable-event-trait": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/event": "dev-main",
@@ -19,5 +19,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
